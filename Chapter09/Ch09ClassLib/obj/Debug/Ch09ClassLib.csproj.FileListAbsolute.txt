@@ -1,0 +1,6 @@
+C:\BeginningCSharp7\Chapter09\Ch09ClassLib\bin\Debug\Ch09ClassLib.dll
+C:\BeginningCSharp7\Chapter09\Ch09ClassLib\bin\Debug\Ch09ClassLib.pdb
+C:\BeginningCSharp7\Chapter09\Ch09ClassLib\obj\Debug\Ch09ClassLib.csprojAssemblyReference.cache
+C:\BeginningCSharp7\Chapter09\Ch09ClassLib\obj\Debug\Ch09ClassLib.csproj.CoreCompileInputs.cache
+C:\BeginningCSharp7\Chapter09\Ch09ClassLib\obj\Debug\Ch09ClassLib.dll
+C:\BeginningCSharp7\Chapter09\Ch09ClassLib\obj\Debug\Ch09ClassLib.pdb

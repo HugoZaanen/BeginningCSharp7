@@ -1,0 +1,6 @@
+C:\BeginningCSharp7\Chapter07\Ch07Ex01\bin\Release\Ch07Ex01.exe.config
+C:\BeginningCSharp7\Chapter07\Ch07Ex01\bin\Release\Ch07Ex01.exe
+C:\BeginningCSharp7\Chapter07\Ch07Ex01\bin\Release\Ch07Ex01.pdb
+C:\BeginningCSharp7\Chapter07\Ch07Ex01\obj\Release\Ch07Ex01.csproj.CoreCompileInputs.cache
+C:\BeginningCSharp7\Chapter07\Ch07Ex01\obj\Release\Ch07Ex01.exe
+C:\BeginningCSharp7\Chapter07\Ch07Ex01\obj\Release\Ch07Ex01.pdb

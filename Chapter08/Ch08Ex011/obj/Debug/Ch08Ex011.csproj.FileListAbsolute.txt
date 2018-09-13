@@ -1,0 +1,15 @@
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\bin\Debug\Ch08Ex011.exe.config
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\bin\Debug\Ch08Ex011.exe
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\bin\Debug\Ch08Ex011.pdb
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011.csprojAssemblyReference.cache
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\MainWindow.g.cs
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\App.g.cs
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011_MarkupCompile.cache
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011_MarkupCompile.lref
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\MainWindow.baml
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011.g.resources
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011.Properties.Resources.resources
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011.csproj.GenerateResource.cache
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011.csproj.CoreCompileInputs.cache
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011.exe
+C:\BeginningCSharp7\Chapter08\Ch08Ex011\obj\Debug\Ch08Ex011.pdb

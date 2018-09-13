@@ -1,0 +1,7 @@
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\bin\Debug\Ch07Ex02.exe.config
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\bin\Debug\Ch07Ex02.exe
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\bin\Debug\Ch07Ex02.pdb
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\obj\Debug\Ch07Ex02.csprojAssemblyReference.cache
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\obj\Debug\Ch07Ex02.csproj.CoreCompileInputs.cache
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\obj\Debug\Ch07Ex02.exe
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\obj\Debug\Ch07Ex02.pdb
