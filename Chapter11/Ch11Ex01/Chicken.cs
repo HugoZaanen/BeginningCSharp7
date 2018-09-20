@@ -8,7 +8,7 @@ namespace Ch11Ex01
 {
     class Chicken : Animal
     {
-        public void Milk() => Console.WriteLine($"{name} has been milked.");
+        public void LayEgg() => Console.WriteLine($"{name} has laid an egg.");
         public Chicken(string newName) : base(newName) { }
     }
 }
