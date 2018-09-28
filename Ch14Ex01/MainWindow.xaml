@@ -6,19 +6,28 @@
         xmlns:local="clr-namespace:Ch14Ex01"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" PreviewKeyDown="Window_PreviewKeyDown" KeyDown="Window_KeyDown">
-    <Grid KeyDown="Grid_KeyDown" PreviewKeyDown="Grid_PreviewKeyDown">
-        <Canvas>
-            <Button Content="Button" HorizontalAlignment="Left" Margin="358,160,0,0" VerticalAlignment="Top" Width="76" Canvas.Top="10" Canvas.Left="10"/>
-        <Button x:Name="rotatedButton" Content="2nd Button" Width="75" Height="22" MinWidth="3" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" KeyDown="rotatedButton_KeyDown" PreviewKeyDown="rotatedButton_PreviewKeyDown" Canvas.Left="376" Canvas.Top="176">
+    <Grid KeyDown="Grid_KeyDown" PreviewKeyDown="Grid_PreviewKeyDown" Margin="8,10,-8,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="109*"/>
+            <RowDefinition Height="210*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="191*"/>
+            <ColumnDefinition Width="326*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="27,4,0,0" VerticalAlignment="Top" Width="75" 
+                  Grid.Row="0" Grid.Column="0">
+        </Button>
+        <Button x:Name="rotatedButton" HorizontalAlignment="Left" VerticalAlignment="Top" Content="2nd" Width="76"  Height="20"  FontWeight="Bold"  KeyDown="rotatedButton_KeyDown" PreviewKeyDown="rotatedButton_PreviewKeyDown" Grid.Column="0" Grid.Row="0" Margin="139,105,0,0">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="-47.47"/>
+                    <RotateTransform Angle="-23.896"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
-        </Canvas>
+        <GridSplitter Grid.RowSpan="2" Width="3" BorderThickness="2" BorderBrush="Black"/>
     </Grid>
 </Window>
